@@ -1,0 +1,14 @@
+.cart button{
+    background-color: rgb(224, 217, 208);
+    border: 1px solid rgb(196, 147, 84);
+    padding: 10px;
+    border-radius: 5px;
+}
+.cart button:hover{
+    background-color: rgb(248, 222, 188);
+}
+.cart{
+    position: sticky;
+    top: 0;
+  
+}

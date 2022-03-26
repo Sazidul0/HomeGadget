@@ -1,0 +1,23 @@
+.product{
+    background-color: white;
+    border-radius: 10px;
+
+}
+.product button{
+    width: 100%;
+    border-radius: 0 0 8px 8px;
+    color: white;
+    border: none;
+    background-color: rgb(228, 195, 153);
+    font-weight: 600;
+ 
+    
+}
+.product button:hover{
+    background-color: orange;
+}
+.product img{
+    width: 286px;
+    border-radius: 5px;
+    margin-top: 30px;
+}

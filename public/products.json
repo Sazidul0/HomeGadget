@@ -1,0 +1,110 @@
+[
+    {
+        "id": "01",
+        "name": "Washing Machine model-w6",
+        "seller": "Addidas",
+        "price": 1000,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-01.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "02",
+        "name": "Washing Machine h67w",
+        "seller": "Addidas",
+        "price": 1200,
+        "stock": 20,
+        "ratings": 1,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-02.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "03",
+        "name": "High quality Washing Machine",
+        "seller": "Addidas",
+        "price": 1250,
+        "stock": 20,
+        "ratings": 1,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-03.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "04",
+        "name": "N23 Washing Machine",
+        "seller": "Addidas",
+        "price": 1120,
+        "stock": 20,
+        "ratings": 2,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-04.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "05",
+        "name": "Premium Washing Machine",
+        "seller": "Addidas",
+        "price": 1040,
+        "stock": 20,
+        "ratings": 2,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-05.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "06",
+        "name": "M36 Washing Machine",
+        "seller": "Addidas",
+        "price": 938,
+        "stock": 20,
+        "ratings": 3,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-06.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "07",
+        "name": "U86 Washing Machine",
+        "seller": "Addidas",
+        "price": 1301,
+        "stock": 20,
+        "ratings": 3,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-07.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "08",
+        "name": "Washing Machine u67d",
+        "seller": "Addidas",
+        "price": 998,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-08.png",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "09",
+        "name": " M-rt3 Washing Machine",
+        "seller": "Addidas",
+        "price": 1125,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://raw.githubusercontent.com/rejaul-islam1/assignment-08-image/main/img-09.png",
+        "shipping": 1,
+        "quantity": 0
+    }
+]
