@@ -20,7 +20,7 @@ const Shop = () => {
         let newCart = [...cart, selectedProduct];
 
         setCart(newCart);
-        // console.log(newCart)
+
     }
 
 
