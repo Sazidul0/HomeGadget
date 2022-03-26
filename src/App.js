@@ -7,7 +7,7 @@ import Shop from './components/Shop/Shop';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App extra-style">
       <h1>Home Gadget</h1>
       <h2>Chose your Washing machine</h2>
       <Shop></Shop>

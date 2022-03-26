@@ -23,11 +23,6 @@ const Shop = () => {
         // console.log(newCart)
     }
 
-    // Remove cart Item
-    const removeCart = () => {
-        console.log('clicked')
-
-    }
 
     return (
         <div className='shop-container'>
