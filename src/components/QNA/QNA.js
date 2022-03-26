@@ -22,7 +22,9 @@ const QNA = () => {
                 It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component
                 the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component.
             </p>
-            <p></p>
+            <h1>3. How useState works</h1>
+            <p>useState is a Hook or function that allows you to have state variables in functional components. We pass the initial state to this
+                function and it returns a variable with the current state value (not necessarily the initial state) and another function to update this value.</p>
         </div>
     );
 };
